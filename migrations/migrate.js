@@ -1,4 +1,3 @@
-// migrations/migrate.js
 require("dotenv").config();
 const pool = require("../src/config/db");
 

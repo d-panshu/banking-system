@@ -1,4 +1,3 @@
-// src/controllers/accountController.js
 const accountModel = require("../models/accountModel");
 
 async function getBalance(req, res, next) {

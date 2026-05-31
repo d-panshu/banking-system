@@ -1,5 +1,3 @@
-// src/middlewares/errorHandler.js
-
 // eslint-disable-next-line no-unused-vars
 function errorHandler(err, req, res, next) {
   console.error(`[${new Date().toISOString()}] Unhandled error:`, err);

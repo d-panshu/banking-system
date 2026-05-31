@@ -1,4 +1,3 @@
-// src/models/accountModel.js
 const pool = require("../config/db");
 
 /**

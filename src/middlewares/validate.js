@@ -1,4 +1,3 @@
-// src/middlewares/validate.js
 const { ZodError } = require("zod");
 
 /**
